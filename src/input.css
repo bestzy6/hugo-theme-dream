@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+#disqus_thread iframe[src*=ads-iframe] {
+  display: none;
+}
+
 #dream-global-bg {
   position: fixed;
   top: 0;
