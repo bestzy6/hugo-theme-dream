@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Changed
+
+- Upgrade to tailwindcss v4 and daisyUI v5 [#374](https://github.com/g1eny0ung/hugo-theme-dream/pull/374)
+
+### Fixed
+
+- Escape mermaidjs code before safe [#376](https://github.com/g1eny0ung/hugo-theme-dream/pull/376)
+- Use one default $navItems [#381](https://github.com/g1eny0ung/hugo-theme-dream/pull/381)
+
 ## [3.11.0] - 2025-03-04
 
 ### Added
